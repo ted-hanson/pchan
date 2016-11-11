@@ -28,7 +28,7 @@ For a priority channel this will ALWAYS print:
 ```
 > Yay I got: 9
 ```
-whereas for a regular channel the print result is indeterminant!!!
+whereas for a regular channel the print result is indeterminate!!!
 
 #!!!WARNINGS!!!
 
